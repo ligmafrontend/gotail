@@ -1,2 +1,2 @@
 # gotail
-Best CMD for Go lol
+Best CMS for Go lol
